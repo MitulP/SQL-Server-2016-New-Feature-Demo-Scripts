@@ -1,0 +1,3 @@
+SELECT 0 FROM sys.objects A
+CROSS APPLY sys.objects B
+CROSS APPLY sys.objects C
